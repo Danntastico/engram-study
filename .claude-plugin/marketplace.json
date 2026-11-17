@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "engram-study",
+  "description": "engram-study: a Claude Code plugin for learning that sticks.",
+  "owner": {
+    "name": "Danilo Peña"
+  },
+  "plugins": [
+    {
+      "name": "engram-study",
+      "source": "./plugin",
+      "description": "Map, capture, connect, recall and cards routines for learning vaults (personal or work)."
+    }
+  ]
+}

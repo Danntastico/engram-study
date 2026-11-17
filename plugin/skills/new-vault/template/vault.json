@@ -1,0 +1,16 @@
+{
+  "name": "<VaultName>",
+  "owner": "<Name>",
+  "kind": "personal",
+  "language": "en",
+  "sources": [],
+  "git": {
+    "remote": "",
+    "push": false
+  },
+  "anki": {
+    "enabled": false,
+    "deckRoot": "<VaultName>",
+    "sync": false
+  }
+}

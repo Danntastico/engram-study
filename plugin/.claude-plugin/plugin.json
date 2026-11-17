@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "engram-study",
+  "version": "0.3.1",
+  "description": "Learning-vault routines built on learning research: set up personal or work vaults, map a codebase or topic into a study path, guess-study-explain one concept at a time, connect concepts with reasons, recall from memory to earn 'solid', and turn notes into Anki flashcards you write yourself.",
+  "author": {
+    "name": "Danilo Peña"
+  },
+  "repository": "https://github.com/Danntastico/engram-study",
+  "license": "UNLICENSED",
+  "keywords": [
+    "learning",
+    "second brain",
+    "obsidian",
+    "spaced repetition",
+    "anki",
+    "fsrs",
+    "onboarding"
+  ]
+}
